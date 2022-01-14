@@ -1,0 +1,12 @@
+4. Explica quina és la diferència entre els dos següents selectors. A qui s'aplicaria cadascun d'ells?
+p, a
+{
+}
+
+i
+p a
+
+
+-- En el primer ejemplo es un selector que se refiere a los tags "p" y "a"
+
+-- En el caso del segundo ejemplo se aplica en el la ruta especifia (En el "a" dentro del "p" dentro del "i")
